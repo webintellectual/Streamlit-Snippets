@@ -8,4 +8,4 @@ If this is the first time Streamlit has seen those three items, with those exact
 
 Then, next time the function is called, if those three values have not changed Streamlit knows it can skip executing the function altogether. Instead, it just reads the output from the local cache and passes it on to the caller.
 
-<img src="demo.gif" alt="display" width=500/>
+<img src="demo.gif" alt="display" width=100/>
