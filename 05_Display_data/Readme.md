@@ -1,0 +1,5 @@
+- st.dataframe
+- st.table
+    - It displays all the data. Unlike st.dataframe can't adjust width or add scroll bar
+- st.json
+- st.write (The almighty swiss army knife)
